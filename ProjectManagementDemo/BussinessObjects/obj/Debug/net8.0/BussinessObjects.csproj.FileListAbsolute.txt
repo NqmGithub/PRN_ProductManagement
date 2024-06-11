@@ -1,0 +1,11 @@
+D:\c#prn\ProjectManagementDemo\BussinessObjects\bin\Debug\net8.0\BussinessObjects.deps.json
+D:\c#prn\ProjectManagementDemo\BussinessObjects\bin\Debug\net8.0\BussinessObjects.dll
+D:\c#prn\ProjectManagementDemo\BussinessObjects\bin\Debug\net8.0\BussinessObjects.pdb
+D:\c#prn\ProjectManagementDemo\BussinessObjects\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#prn\ProjectManagementDemo\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\c#prn\ProjectManagementDemo\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+D:\c#prn\ProjectManagementDemo\BussinessObjects\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\c#prn\ProjectManagementDemo\BussinessObjects\obj\Debug\net8.0\BussinessObjects.dll
+D:\c#prn\ProjectManagementDemo\BussinessObjects\obj\Debug\net8.0\refint\BussinessObjects.dll
+D:\c#prn\ProjectManagementDemo\BussinessObjects\obj\Debug\net8.0\BussinessObjects.pdb
+D:\c#prn\ProjectManagementDemo\BussinessObjects\obj\Debug\net8.0\ref\BussinessObjects.dll

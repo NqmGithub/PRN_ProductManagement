@@ -1,0 +1,17 @@
+D:\c#prn\ProjectManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\c#prn\ProjectManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\c#prn\ProjectManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\c#prn\ProjectManagementDemo\Repositories\bin\Debug\net8.0\BussinessObjects.dll
+D:\c#prn\ProjectManagementDemo\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\c#prn\ProjectManagementDemo\Repositories\bin\Debug\net8.0\BussinessObjects.pdb
+D:\c#prn\ProjectManagementDemo\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\c#prn\ProjectManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\c#prn\ProjectManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#prn\ProjectManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\c#prn\ProjectManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\c#prn\ProjectManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\c#prn\ProjectManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CopyComplete
+D:\c#prn\ProjectManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\c#prn\ProjectManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\c#prn\ProjectManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\c#prn\ProjectManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
